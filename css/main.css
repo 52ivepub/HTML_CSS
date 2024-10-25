@@ -1,5 +1,5 @@
 nav{
-    background: #e8d5a588;
+    background: #acaac088;
     border-radius: 5px;
     height: 50px;
     line-height: 50px;
@@ -13,7 +13,7 @@ menu li {
     display: inline-block;
     padding: 0 25px;
     background: #00b0e5;
-    height: 50x
+    height: 50x;
     margin: 0 -2px;
     border-right: solid 2px black;
 
