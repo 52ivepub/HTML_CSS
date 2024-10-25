@@ -31,3 +31,11 @@
 
 <ul> - список с точками вместо цифр
     type - типы точек
+
+"lorem30 + 'tab' " - создать текст из шаблона на 30 символов
+
+li*5>a[href=#link$]{Link $}  ==  <li><a href="#link1">Link 1</a></li>
+                                <li><a href="#link2">Link 2</a></li>
+                                <li><a href="#link3">Link 3</a></li>
+                                <li><a href="#link4">Link 4</a></li>
+                                <li><a href="#link5">Link 5</a></li>
