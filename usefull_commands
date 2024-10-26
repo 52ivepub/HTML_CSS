@@ -41,3 +41,11 @@ li*5>a[href=#link$]{Link $}  ==  <li><a href="#link1">Link 1</a></li>
                                 <li><a href="#link5">Link 5</a></li>
 
 target="_blank" - открыть страницу в другом окне
+
+<table align="center" bgcolor="#a5a7e888" border="3" bordercolor="#000"
+cellpadding="20" cellspacing="20"> 
+    cellpadding - интервал ячеек
+    border - пиксели ячеек
+    cellspacing-интервал ячеек
+
+    
