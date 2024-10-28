@@ -153,4 +153,6 @@ td{$ lorem5}*3 -создать 3 строки с тегом td и текстом
                             <option value="">opztion4</option>
                             <option value="">opztion5</option>
 
+"<fieldset>" -  текст в квадратике
+
 
