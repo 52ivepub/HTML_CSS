@@ -128,14 +128,29 @@ td{$ lorem5}*3 -создать 3 строки с тегом td и текстом
             type="submit" - кнопка 
             type="button" кнопка 
             type="reset"  сброс всего набранного в других формах
-            type="file" дает выбдрать файл с компа 
+            type="file" дает выбрать файл с компа 
             type="password" текст вводится обезличено
             type="email" похоже на текст но есть валидация
             type="number" счетчик 
-            type="date" счетчик  календарь. не работает в яндекс браузер
+            type="date"   календарь. не работает в яндекс браузер
             type="time"  часы и минуты 
             type="range" ползунок 
             type="hidden" скрыть поле
 
     "label":
-            "for" = 
+            "for"  - связывает 
+
+  "<textarea" name="r" id="" cols="80" rows="10" placeholder="Введите текст"></textarea> - формачка для введение тектста на сайте 
+
+  "<button" type="reset">reset</button>  - кнопка для сброса текста 
+
+  "<select>"  контейнер (список с ползунком)
+  "<option>" строчки в контейнере
+
+  "option*5{opztion$}" -  <option value="">opztion1</option>
+                            <option value="">opztion2</option>
+                            <option value="">opztion3</option>
+                            <option value="">opztion4</option>
+                            <option value="">opztion5</option>
+
+
