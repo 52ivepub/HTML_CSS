@@ -1,0 +1,65 @@
+body {
+    background-image: url(img/blue.png);
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: serif;
+
+}
+
+kbd {
+    background: #222;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+    padding: 5px 15px;
+    font-family: serif;
+}
+p {
+    text-align: center;
+}
+
+
+form fieldset {
+    width: 800px;
+}
+
+form legend, form label {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: serif;
+}
+
+
+form button {
+    height: 50px;
+    font-size: 20px;
+    background: #0093ff;
+    border-radius: 10px;
+    padding: 10px 15px;
+    line-height: 25px;
+    border: none;
+    font-family: serif;
+
+
+}
+form button:hover {
+    background: #2da6ff;
+    color: #fff
+}
+
+form input {
+    width: 250px;
+    height: 30px;
+}
+
+form input, form textarea {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    font-family: serif;
+    border: 2px solid #099dff;
+    padding-left: 10px;
+    box-shadow: 1px 1px 8px #0c0404;
+
+}
